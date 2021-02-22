@@ -10,6 +10,7 @@ USTH ICT 2021 Distributed Systems
 
 Group Info
 =======================
+## Group pr0:
 
 * Le Trong Hoang (BI9-241)
 * Nguyen The Trung (BI9-224)
